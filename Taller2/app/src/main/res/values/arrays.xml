@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="compras">
+        <item>Harina</item>
+        <item>Leche</item>
+        <item>Huevos</item>
+    </array>
+</resources>
